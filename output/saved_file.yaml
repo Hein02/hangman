@@ -1,0 +1,16 @@
+---
+secret_word:
+- e
+- s
+- p
+- e
+- c
+- i
+- a
+- l
+- l
+- "y"
+correct_letters: []
+incorrect_letters: []
+turns: 12
+guessed_letters: []
